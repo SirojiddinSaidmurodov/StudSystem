@@ -1,0 +1,12 @@
+admin admin13 admin
+Baggio 123 professor
+Nikita 456 student
+Lipatov 789 student
+Ashatov 1234 professor
+Iskander 123 student
+Filimoshkina 123 student
+Ibraeva 789 student
+Arslan 789 student
+Ergasheva 1234 student
+Daniil 123 student
+Vika 789 student
