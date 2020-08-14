@@ -26,3 +26,7 @@ hs_err_pid*
 
 # Compiled files
 /out
+
+# Idea settings
+/.idea/
+!/idea/libraries/lib.xml
